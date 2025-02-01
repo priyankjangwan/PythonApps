@@ -39,3 +39,5 @@ def loopRange(givenRange):
 
 
 print(loopRange(range(10)))
+
+print(dir(__builtins__))
