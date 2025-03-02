@@ -8,4 +8,8 @@ To Learn:
     1. high deviation (low bias) 
    2. low deviation
 2. standard deviation
-3. 
+
+
+
+
+
