@@ -1,0 +1,23 @@
+Python Packages for Data Science:
+
+- Numerical Computations
+	- Travis Oliphant
+	- NumPy - Numerical Python
+		- N-dimensional Array
+
+- Computational Package (Statistics, Linear Algebra, Probability)
+	- Scipy
+
+- Data Processing 
+	- Wes Mckinney
+	- Pandas - Panel Data
+		- Series
+		- Data Frame
+
+- Data Visualization
+	- Graphs and Charts
+		- Matplotlib
+		- Seaborn
+
+- Feature Engineering
+	- Sci-kit Learn

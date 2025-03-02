@@ -1,0 +1,92 @@
+Artificial Intelligence
+	- Data Analytics
+	- Data Science
+	- Natural Language Processing
+	- Computer Vision
+	- Machine Learning
+	- Deep Learning
+	- Robotics
+
+Pre-requisites for Data Science
+1. Computer Science
+	- Programming
+		- Python
+
+2. Mathematics
+	- Statistics
+	- Linear Algebra
+	- Probability
+
+
+-----------------------------------------
+
+Types of Data:
+
+By Format:
+
+1. Structured Data
+	- Excel Workbook
+	- Tables in Relational Database Management System
+
+2. Semi-Structured Data
+	- HTML
+
+<html>
+<head> Heading </head>
+<body>
+<a>
+</a>
+Content
+</body>
+</html>
+
+	- JSON
+
+{
+name: 'Vignesh'
+gender: 'Male'
+
+}
+
+
+
+
+
+3. Unstructured Data
+	- Text
+		- .txt, .docx, pdf
+	- Images
+		- .jpeg, .png
+	- Videos
+		- .mp4
+	- Audio
+		- .mp3
+
+
+--------------------------------------------------
+
+By Datatypes
+	- Quantitative / Numerical
+		- Discrete
+			- No. of people, No.of modules
+		- Continuous
+			- Temperature, Marks, Height, Weight
+	- Qualitative / Categorical
+		- Binary
+			- Yes/No, True/False, Pass/Fail
+		- Nominal
+			- Bloodgroup, Gender
+		- Ordinal
+			- Grades, Designation, Size, Feedback
+
+
+
+
+
+
+
+
+
+
+
+

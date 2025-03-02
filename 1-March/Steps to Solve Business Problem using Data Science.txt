@@ -1,0 +1,20 @@
+Steps to Solve Business Problem using Data Science:
+
+1. Define the Problem Statement
+	- Identify what we want to achieve
+
+2. Collect the Data
+	- Surveying
+	- Sampling
+
+3. Prepare the Data - Exploratory Data Analysis (EDA)
+	- Data Preprocessing
+	- Data Wrangling
+	- Data Visualization
+
+4. Prepare the solution
+	- Machine Learning
+
+5. Evaluating the solution
+
+6. Deployment
