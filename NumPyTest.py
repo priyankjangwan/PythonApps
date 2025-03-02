@@ -20,3 +20,8 @@ print('3D array is', arr3)
 # Create a 4D Array
 arr4 = np.array([[[[1, 1, 1], [2, 2, 2]], [[3, 3, 3], [4, 4, 4]]], [[[5, 5, 5], [6, 6, 6]], [[7, 7, 7], [8, 8, 8]]]])
 print('4D array is', arr4)
+
+
+print(np.var(arr4))
+
+np.round()
