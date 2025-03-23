@@ -1,0 +1,35 @@
+Probability Distribution
+	- Function that gives the probability of a different outcomes that can happen in a experiment
+
+Types of Variables
+	- Discrete (Rolling Dice, Coin Flip)
+		- Binomial
+			- Probability of getting 3 heads in 5 tosses
+		- Bernoulli
+			- Probability of getting a head when 1 coin is tossed
+		- Poisson 
+			- Probability of getting 10 emails in 1 hour
+	- Continuous (Height, Weight, Temp)
+		- Normal / Gaussian
+			- Probability of a person having a particular height
+		- Exponential
+			- Time until your next bus arrives
+		- Uniform
+			- Probability of getting 5 in a random numbers
+
+
+
+70% chance of working
+
+What is the probability of the machine working on a given day
+
+
+
+
+
+
+
+
+
+
+

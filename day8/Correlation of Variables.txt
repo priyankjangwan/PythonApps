@@ -1,0 +1,21 @@
+Correlation of Variables:
+-1 : Negative Relationship (As one variable increases, the other variable decreases)
+0 : No Relationship between the variables
+1 : Positive Relationship (As one variable increases, the other variable increases)
+
+
+----------------------------------------
+
+Data Visualization
+Types:
+- Univariate
+	- Study of one variable
+		- Histogram, Bar, Boxplot
+- Bivariate
+	- Study of 2 variables
+		- Line, Scatter
+- Multivariate
+	- Study of more than 2 variable
+		- Pie, Heatmap
+
+

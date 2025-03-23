@@ -1,0 +1,20 @@
+Problems faced during Data Collection:
+1. Missing Data
+2. Data Format
+3. Data Redundacy
+4. Outliers
+5. Data Quantity
+6. Data Quality
+
+
+
+Quantitative
+	- Discrete
+		- Replace the missing with median/mean
+	- Continuous
+		- Replace the missing values with mean
+Qualitative
+	- Binary
+	- Nominal
+	- Ordinal
+	- Replace the missing value with mode

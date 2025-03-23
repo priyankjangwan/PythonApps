@@ -1,0 +1,12 @@
+Types of Analytics:
+- Descriptive
+	- What is provided in the data ?
+- Diagnostic
+	- Relationship Study of the Data (Why is there a pattern?)
+		- Correlation
+		- Covariance
+- Predictive
+	- Generalize the pattern and predict the future instance
+		- Machine Learning
+- Prescriptive
+	- Action plan to achieve the predictive results

@@ -10,3 +10,6 @@ projects_df = pd.DataFrame(data2)
 
 joins= pd.merge(employee_df,projects_df,how='inner',on='EmpID')
 print(joins)
+
+housing_df = pd.read_csv(r'.\Datasets\housing_data.csv')
+print(housing_df.head())
