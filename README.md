@@ -16,6 +16,71 @@ To Learn:
     1. high deviation (low bias) 
    2. low deviation
 2. standard deviation
+------------------
+
+Types of Analytics:
+- Descriptive
+	- What is provided in the data ?
+- Diagnostic
+	- Relationship Study of the Data (Why is there a pattern?)
+		- Correlation
+		- Covariance
+- Predictive
+	- Generalize the pattern and predict the future instance
+		- Machine Learning
+- Prescriptive
+	- Action plan to achieve the predictive results
+
+
+
+-----------
+1. Define the problem statement
+	- Identify what you want to achieve
+2. Collect the Data
+	- Sampling
+	- Surveying
+
+3. Prepare the Data
+	- Reading the Data
+		- .read_csv()
+	- Check the Data Dimensions
+		- .shape
+	- Check the Data types
+		- .info()
+	- Checking the records
+		- .head()
+		- .columns
+	- Checking the Summary
+		- .describe()
+	- Data Visualization
+		- Univariate
+			- histogram
+			- boxplot
+		- Bivariate
+			- line
+			- scatter
+		- Multivariate
+			- pie
+			- heatmap
+	- Data Preprocessing
+		- Handling Missing Data
+			- isnull().sum()
+			- fillna()
+		- Handling Outliers
+			- Outlier Treatment
+		- Removing Duplicates
+			- duplicated()
+	- Data Standardization and Normalization
+		- Numerical Variable
+			- Min Max Scaler
+			- Standard Scaler
+			- Binning
+		- Categorical Variable
+			- One hot encoding
+			- Label Encoding
+			
+
+4. Build the Model
 
 
 
