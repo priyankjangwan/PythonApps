@@ -1,14 +1,18 @@
-To learn :
-Sampling meaning
-standard deviation 
-veriance 
-gaussian 
-Hypothisis
-what is mean , avg , medien
+
+To Learn:
+1. data variance 
+    1. high deviation (low bias) 
+   2. low deviation
+2. standard deviation
+3. Sampling meaning
+4. standard deviation 
+5. veriance 
+6. gaussian 
+7. Hypothisis
+8. what is mean , avg , medien , corelation(directly proportional and invers.)
 cumulative 
 Probabilistic machine learning by Kevin Murphy
-
-
+causality
 
 
 # PythonApps 
@@ -24,11 +28,6 @@ https://archive.ics.uci.edu/
 https://www.khanacademy.org/math/statistics-probability
 
 
-To Learn:
-1. data variance 
-    1. high deviation (low bias) 
-   2. low deviation
-2. standard deviation
 ------------------
 
 Types of Analytics:
