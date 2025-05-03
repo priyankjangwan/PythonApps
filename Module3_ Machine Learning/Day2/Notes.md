@@ -47,14 +47,17 @@ y = f(x1,x2,x3,...)
 Supervised leaning version:
 
 Standard scaling
-Overfiting : model is generalized the data , error on test set is quite high.
+Overfiting : model is generalized the data , error on test set is quite high.but tranning error is high
+	RMSE of test is high.. and rmse of train set is low
+	
+	
 Underfitted : model have not learnt any ting from data/
 
 
 How to Overcome Overfitting: 
 Lasso
 ridge
-Elastic net regression	
+Elastic net regression	(Rss +L1+ L2 is elasticnet.)
 	
 	
 	
