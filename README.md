@@ -15,6 +15,7 @@ Probabilistic machine learning by Kevin Murphy
 causality
 
 
+
 # PythonApps 
 https://peps.python.org/pep-0008/
 https://www.youtube.com/watch?v=ujRBy777Qyk&list=PLj835rCQzWioGKfzi7aJhZHnQXNGeNaL_&index=31[README.md](README.md)
@@ -30,6 +31,10 @@ https://imbalanced-learn.org/stable/
 
 ------------------
 
+## Books 
+https://www.statlearning.com/
+
+------------------
 Types of Analytics:
 - Descriptive
 	- What is provided in the data ?
