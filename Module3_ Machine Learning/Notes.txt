@@ -35,12 +35,3 @@ Adjusted R-squared: Only increases if the new variable improves the model signif
 	
 //  we cant use Lineal regression if there is a strong correlation between more than 2 features?
 	
-	
-	
-	
-	
-	
-	
-	
-	
-	
