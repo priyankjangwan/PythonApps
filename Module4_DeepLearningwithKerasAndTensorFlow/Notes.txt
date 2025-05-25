@@ -1,0 +1,45 @@
+24th May
+
+Deep Learning 
+-------------------------------------------------------
+Book:
+Deep Learning with PyTorch
+Book by Eli Stevens, Luca Antiga, and Thomas Viehmann
+-------------------------------------------------------
+
+Alan Turing, Turing Awards, Turing Test - takeaway exercise
+
+
+ImageNet :
+Started in 2010, its basically a compition to create a large scale module or Image classification and object detection
+
+1. What is this imagenet challenge ?
+	Image net was designed to create vast dataset to use in visual recognization .
+	
+	started in 2010, its basically a compition to create a large scale module for Image classification and object detection.
+	basically to expand and improve data , which can be used Image classification and object detection and train AI algorithm
+	
+	
+
+2. What were the different models which performed well in this challenge yearwise ?
+
+3. Which year was Alexnet introduced ?
+
+4. What was so special about Alexnet ?
+
+5. Find out what is special about the authors of Alexnet paper
+
+---------------------------------------------------------------------------------
+. Think of a problem which may be what you are working on or it may be close to your heart
+
+2. Think of a dataset ( type, availability, complexity etc)
+
+3. Think of a model ( CNN, RNN, Transformers, GANs ....)
+
+4. Think of Evaluating ( what metrics )
+
+
+-----------------------------------------
+Understanding of biological Neurons  -> perceptron
+
+Neural network

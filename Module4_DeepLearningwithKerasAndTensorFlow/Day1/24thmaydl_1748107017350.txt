@@ -1,0 +1,114 @@
+Introduction 
+
+
+Name : Mohammad Wajahat
+Belong : Prayagraj, Uttar Pradesh, India
+
+Qualification : Bachelors in IT, IIIT Allahabad - 2015
+                Pursuing Masters in Science by research, IIIT Hyderabad
+
+Work Experience - 9 years of experience
+                Database Architect, Data Analyst, Data Scientist
+                Team Lead at Regulativ.ai
+                Prinicpal Software Engineer@Infomerica - GEnerative AI solutions for clients
+
+Teaching Experience - 6 years of experience 
+                4000 + hours of training
+                Python, Data Science, Machine Learning, Deep Learning,
+                Natural Language Processing, Speech Recognition, Computer Vision,
+                Generative AI, Advanced Generative AI
+
+                EY, Dell, Purdue, HPE, EVonik, Vodafone, R Systems
+
+
+Your Introduction 
+
+
+Name : 
+City you are based out of :
+Work Experience : 
+Domain :
+Any prior experience into Deep Learning : 
+
+
+
+Ground Rules : 
+
+1. No deep mathematics / Intermediate level of coding / Expert level of understanding of model, its working, its purpose etc
+2. Its your responsibility to make it engaging
+3. Ask silly questions
+4. 7 PM (5 minutes) Initial 15 minutes discussion on doubts of previous session
+   9:00 PM (20 minute break)
+   10:40 PM (End Session)
+5. Share the agenda for the next session (Explore about that topic, blogs, chatgpt, posts, experiments, fun facts, papers)
+6. Keep your questions from what we have discussed ( do not jump the topic )
+
+-------------------------------------------------------------------------------------------------------
+
+
+
+
+Exercise - 10 minutes
+
+1. What is this imagenet challenge ?
+2. What were the different models which performed well in this challenge yearwise ?
+3. Which year was Alexnet introduced ?
+4. What was so special about Alexnet ?
+5. Find out what is special about the authors of Alexnet paper
+
+
+
+
+Exercise - 10 minutes
+
+1. Think of a problem which may be what you are working on or it may be close to your heart
+2. Think of a dataset ( type, availability, complexity etc)
+3. Think of a model ( CNN, RNN, Transformers, GANs ....)
+4. Think of Evaluating ( what metrics )
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
