@@ -43,3 +43,8 @@ Started in 2010, its basically a compition to create a large scale module or Ima
 Understanding of biological Neurons  -> perceptron
 
 Neural network
+lenier equation
+Sigmoid Function
+Mean square error
+Gradient and weight
+

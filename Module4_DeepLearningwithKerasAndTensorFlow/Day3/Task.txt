@@ -1,0 +1,15 @@
+1. Define the model in your own way
+
+    Add more layers / Add more neurons / Use a diff activation function / Use Dropout
+
+2. Compile your model using a different error metric
+
+3. Use different values of epochs to see results
+
+4. Use different value of patience (complex network w/o dropout)
+
+
+
+
+units=hp.Int('units', min_value=5, max_value=10, step=5),
+            units=hp.Int('units', min_value=2, max_value=10, step=20),
