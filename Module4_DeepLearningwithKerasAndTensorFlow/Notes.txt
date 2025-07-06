@@ -48,3 +48,103 @@ Sigmoid Function
 Mean square error
 Gradient and weight
 
+
+
+
+
+
+
+
+
+
+
+
+-----------------------------
+PromtExgineering :
+You are a [role/persona]. Your task is to [describe task]. Write [output format] in a [tone/style]. The product is [context/subject]. Highlight [key points]. Avoid [things to exclude].
+------------------------------------
+You are a banking industry consultant. Create a 7-slide PowerPoint for a retail bank's risk management team on the topic 'AI-Powered Fraud Detection in Retail Banking.'
+
+Include:
+
+Slide 1: Title Slide (Topic + Speaker Name)
+
+Slide 2: Explain common types of fraud in retail banking with simple examples.
+
+Slide 3: List limitations of current rule-based fraud detection systems.
+
+Slide 4: Explain how AI models like anomaly detection, neural networks, and graph analysis detect fraud.
+
+Slide 5: List practical benefits: faster fraud detection, reduced false positives, real-time alerts.
+
+Slide 6: Give one real-world case study from a known bank.
+
+Slide 7: End with a call to action: “Next steps for adopting AI in fraud detection.”
+
+Use clear language suitable for senior risk managers. Avoid technical AI jargon
+------------------------------------
+
+
+Task : write a ecomerce adwertisement for office chaire having below features.
+   Brand: BAYBEE
+
+    Color: Emperor Wine Red
+
+    Material: Leather (Faux Leather)
+
+    Dimensions: 60D x 50W x 140H cm
+
+    Size: Single Seat
+
+    Back Style: Wing Back
+
+    Special Features: Adjustable Lumbar, Adjustable Height, Ergonomic Design, Arm Rest, Rolling, Swivel, Head Support
+
+    Care Instructions: Wipe Clean
+	
+	
+-------------
+Role:
+
+You are an experienced marketing professional who specialises in writing successful ads.
+
+Task:
+
+Write an ad copy for a gaming chair using the product description given below. The target audience is avid gamers in the age group 16–25 who value comfort and good aesthetics and are price conscious.
+
+Context:
+
+The ad copy will be shown on the landing page of an e-commerce website. The brand is known for its innovative products and witty appeal.
+
+Product Description:
+
+Brand: Baybee
+
+Colour: Emperor Wine Red
+
+Material: Leather
+
+Product Dimensions: 60D x 50W x 140H Centimeters
+
+Size: Single Seat Back
+
+Style: Wing Back
+
+Special Feature: Adjustable Lumbar, Adjustable Height, Ergonomic, Arm Rest, Rolling, Swivel, Head Support
+
+Seat Material Type: Faux Leather
+
+Recommended uses: Office, Relaxing, Reading, Gaming
+
+Guidelines:
+
+Make sure the copy targets the right audience, highlights emotional and other benefits rather than features, and is witty and fun (in line with the brand’s image).
+
+ 
+
+Output Format:
+
+Create a copy in 200 words or less.
+
+
+-------------------------
