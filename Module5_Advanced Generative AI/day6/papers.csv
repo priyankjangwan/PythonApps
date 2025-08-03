@@ -1,0 +1,11 @@
+title,abstract
+Few-Shot Learning via Prompt Tuning with LLMs,We propose a prompt-tuning strategy using large language models for adapting to few-shot settings in NLP tasks. Our method reduces the need for fine-tuning by leveraging prompt engineering.
+Meta-Learning for Efficient Few-Shot Classification,Meta-learning frameworks have shown promising results in few-shot classification by optimizing the initialization of neural networks across tasks.
+A Survey on Transformers in Vision,"This paper surveys the use of Transformer architectures in computer vision, including ViT, DETR, and Swin Transformers, with benchmarks and comparisons."
+Contrastive Learning for Representation Learning,We explore contrastive learning approaches that learn useful representations by pulling semantically similar instances together and pushing dissimilar ones apart.
+Neural Scaling Laws in Large Language Models,"This work investigates how performance scales with model size, dataset size, and compute, providing insights into neural scaling laws."
+Efficient Retrieval Techniques for Long Documents,"We introduce retrieval mechanisms to efficiently index and access long documents in QA systems, enabling fast recall without sacrificing semantic coverage."
+Reinforcement Learning with Human Feedback,"We discuss reinforcement learning with human feedback (RLHF), which allows agents to align better with human values through reward modeling."
+An Empirical Study of LLM Prompt Sensitivity,"This empirical study examines how LLMs respond to various prompt formulations across tasks like summarization, translation, and classification."
+Self-Supervised Pretraining in NLP,This paper analyzes self-supervised learning objectives for language modeling and their transferability to downstream tasks.
+Benchmarks for Multimodal Understanding,We present a collection of benchmarks and evaluation frameworks for assessing multimodal understanding across image-text tasks.

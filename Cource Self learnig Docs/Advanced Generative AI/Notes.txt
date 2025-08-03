@@ -1,0 +1,26 @@
+ENC Training & Inference - Summarization
+
+DEC Training - understands relationship
+
+DEC Testing - predicts Marathi translations
+
+
+Encoder
+
+	Takes an input sequence/sentence.
+
+	Processes each token using Recurrent Neural Networks (RNNs), LSTMs, GRUs, or Transformers.
+
+	Outputs a fixed-size vector (context) summarizing the input.
+
+
+
+Decoder
+
+	Starts with the context vector from the encoder and Generates the output sequence one step at a time.
+	
+	
+	
+	https://chatgpt.com/share/687280d8-3a94-800e-b758-903f2471242a
+	
+	
